@@ -1,0 +1,484 @@
+/* Colore del Body */
+body {
+background-color: #000000;
+}
+
+a {
+text-decoration: none;
+border:none;
+    color:blue;
+}
+
+#a1{
+    text-decoration: none;
+    border:none;
+    color:#A4B8F2;
+}
+
+p {
+	color:#A4B8F2;
+	font-family:Georgia, Times New Roman, Times, serif;
+
+}
+
+#a2 {
+	color:#A4B8F2;
+	font-family:Georgia, Times New Roman, Times, serif;
+
+}
+
+#p1 {
+    background-color:#A4B8F2;
+    font-family:Georgia, Times New Roman, Times, serif;
+    font-size: 14px;
+}
+
+#note {
+	position: absolute;
+	line-height: 20px;
+	padding: 3px 5px;
+}
+
+a:visited {
+text-decoration: none;
+border:none;
+}
+
+a:link {
+text-decoration: none;
+border:none;
+}
+
+#font_titolo {
+color:#5FBEDE;
+font-family:Verdana, Arial, Helvetica, sans-serif;
+font-size:62px;
+font-style:normal;
+}
+
+
+
+
+/* Font1 color = blu chiaro */
+#font1 {
+color:#5FBEDE;
+font-family:Verdana, Arial, Helvetica, sans-serif;
+font-size:52px;
+font-style:normal;
+}
+/* Font1 color = blu chiaro chiaro */
+#font2 {
+color:#A4B8F2;
+font-family:Verdana, Arial, Helvetica, sans-serif;
+font-size:18px;
+font-style:normal;
+}
+/*  color = blu chiaro chiaro */
+#font3 {
+color:#A4B8F2;
+font-family:Verdana, Arial, Helvetica, sans-serif;
+font-size:18px;
+}
+
+#font3_A {
+color:#A4B8F2;
+font-family:Verdana, Arial, Helvetica, sans-serif;
+font-size:12px;
+}
+
+#font3_B {
+color:#A4B8F2;
+font-family:Verdana, Arial, Helvetica, sans-serif;
+font-size:18px;
+
+}
+
+/* color = blu chiaro chiaro */
+#font4 {
+color:#C1FFFF;
+font-family:Verdana, Arial, Helvetica, sans-serif;
+font-size:10px;
+}
+
+#font4_N {
+color:#C1FFFF;
+font-family:Verdana, Arial, Helvetica, sans-serif;
+font-size:15px;
+}
+
+#font4_A {
+color:#000099;
+font-family:Verdana, Arial, Helvetica, sans-serif;
+font-size:10px;
+}
+
+#font5 {
+color:#AAAAFF;
+font-family:Verdana, Arial, Helvetica, sans-serif;
+font-size:28px;
+}
+
+#font5_B {
+color:#AAAAFF;
+font-family:Verdana, Arial, Helvetica, sans-serif;
+font-size:20px;
+}
+
+#font5_C {
+color:#AAAAFF;
+font-family:Verdana, Arial, Helvetica, sans-serif;
+font-size:16px;
+}
+
+#font6 {
+color:#AAAAFF;
+font-family:Verdana, Arial, Helvetica, sans-serif;
+font-size:41px;
+}
+
+#font7 {
+color:#FFFFA6;
+font-family:Verdana, Arial, Helvetica, sans-serif;
+font-size:16px;
+}
+
+#font8 {
+color:#A8FFFF;
+font-family:Verdana, Arial, Helvetica, sans-serif;
+font-size:14px;
+}
+
+#font9 {
+color:#000066;
+font-family:Verdana, Arial, Helvetica, sans-serif;
+font-size:14px;
+}
+
+#font9_A {
+color:#000066;
+font-family:Verdana, Arial, Helvetica, sans-serif;
+font-size:11px;
+}
+
+#font20 {
+color:#0404B4;
+font-family:Verdana, Arial, Helvetica, sans-serif;
+font-size:13px;
+}
+
+/* RED */
+#font10 {
+color:#CC3333;
+font-family:Verdana, Arial, Helvetica, sans-serif;
+font-size:16px;
+}
+
+/* font for Menu (select) */
+#font_menu1 {
+color:#FF6A6A;
+font-family:Verdana, Arial, Helvetica, sans-serif;
+font-size:18px;
+}
+
+/* font for Menu (not select) */
+#font_menu2 {
+color:#A6D1EC;
+font-family:Verdana, Arial, Helvetica, sans-serif;
+font-size:18px;
+}
+
+#form1 {
+background-color:#B6B7E0;
+border:none;
+font-size: 14px;
+}
+
+#form4 {
+background-color:#CCCCCC;
+border-style:double;
+border-color:#2B098E;
+}
+
+/* FORM rosso perch� manca il dato */
+#form1_A {
+background-color:#FF5555;
+border-style:double;
+border-color:#2B098E;
+}
+
+/* FORM cacky perch� il paziente esiste gi� nel database */
+#form1_B {
+background-color:#C9BE62;
+border-style:double;
+border-color:#2B098E;
+}
+
+/* Disabled form */
+#form1_C {
+background-color:#333333;
+border-color:#2B098E;
+}
+
+#form1_D {
+background-color:#0099CC;
+font-family:Verdana, Arial, Helvetica, sans-serif;
+color:#FFFFCC;
+}
+
+/* Bottone 'GO' */
+#form2 {
+background-color:#AAB3F0;
+font-family:Verdana, Arial, Helvetica, sans-serif;
+font-size:12px;
+color:#000077;
+font-style:normal;
+border-top-color:#000071;
+}
+
+#form2_1 {
+	background-color:#AAB3F0;
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size:14px;
+	color:#000077;
+	font-style:normal;
+	border-top-color:#000071;
+}
+
+#form2_2 {
+background-color:#AAB3D1;
+font-family:Verdana, Arial, Helvetica, sans-serif;
+font-size:12px;
+color:#000077;
+font-style:normal;
+border-top-color:#000071;
+}
+
+#form2_3 {
+background-color:#CCCCCC;
+font-family:Verdana, Arial, Helvetica, sans-serif;
+font-size:12px;
+color:#000077;
+font-style:normal;
+border-top-color:#804000;
+}
+
+/* Bottone 'E.R.' */
+#form3 {
+background-color:#FF9B6A;
+font-family:Verdana, Arial, Helvetica, sans-serif;
+font-size:12px;
+color:#710000;
+font-style:normal;
+border-top-color:#BB0000;
+}
+
+#hr1 {
+width:80%;
+background-color:#5E6BAE;
+}
+
+#border {
+border:solid;
+border-color:#0099CC;
+}
+
+#tabella_10 {
+background-color:#5B5B86;
+}
+
+#conferma{
+	-webkit-border-radius: 5px;
+	-moz-border-radius: 5px;
+	-o-border-radius: 5px;
+	border-radius: 5px;	
+	width: 600px;
+	height: auto;
+	background:#A4A4FF;
+	margin: 0 auto;
+	box-shadow:0px 8px 8px #000000;
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size:12;
+	color:#000080;
+}
+
+#hr_home {       /*根据id选择CSS选择器*/
+width:60%;
+background-color:#5E6BAE;
+}
+
+#hr_menu {
+width:90%;
+background-color:#5E6BAE;
+}
+
+
+#menu_permission3 {
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size:18px;
+	-webkit-border-radius: 5px;
+	-moz-border-radius: 5px;
+	-o-border-radius: 5px;
+	border-radius: 5px;	
+	width:200px;
+	background-color:none;
+}
+
+
+#menu {
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size:18px;
+	-webkit-border-radius: 5px;
+	-moz-border-radius: 5px;
+	-o-border-radius: 5px;
+	border-radius: 5px;	
+	width:200px;
+	background-color:none;
+}
+
+#menu:hover {	
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size:18px;
+	-webkit-border-radius: 5px;
+	-moz-border-radius: 5px;
+	-o-border-radius: 5px;
+	border-radius: 5px;	
+	width:200px;
+	background-color:#8080FF;
+}
+
+
+#benvenuto {
+	-webkit-border-radius: 10px;
+	-moz-border-radius: 10px;
+	-o-border-radius: 10px;
+	border-radius: 10px;	
+	width:500px;
+	height:auto;
+	background-color:#C1C1FF;	
+	box-shadow:0px 12px 12px #000000;
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size:30px;
+	color:#000080;
+}
+
+#menu_amministrazione {
+	-webkit-border-radius: 3px;
+	-moz-border-radius: 3px;
+	-o-border-radius: 3px;
+	border-radius: 3px;	
+	width:300px;
+	height:auto;
+	background-color:#C1C1FF;	
+	box-shadow:0px 12px 12px #000000;
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size:12px;
+	color:#000080;
+}
+
+#menu_amministrazione:hover {
+	-webkit-border-radius: 3px;
+	-moz-border-radius: 3px;
+	-o-border-radius: 3px;
+	border-radius: 3px;	
+	width:300px;
+	height:auto;
+	background-color:#C1C1FF;	
+	box-shadow:0px 4px 4px #000000;
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size:12px;
+	color:#E80000;
+}
+
+
+#ricerca_anagrafica_paziente {
+	-webkit-border-radius: 5px;
+	-moz-border-radius: 5px;
+	-o-border-radius: 5px;
+	border-radius: 5px;	
+	width:900px;
+	height:auto;
+	background-color:#C1C1FF;	
+	box-shadow:0px 12px 12px #000000;
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size:14px;
+	color:#000080;
+}
+
+#ricerca_avanzata{
+	-webkit-border-radius: 5px;
+	-moz-border-radius: 5px;
+	-o-border-radius: 5px;
+	border-radius: 5px;	
+	width:900px;
+	height:auto;
+	background-color:#98AFC7;	
+	box-shadow:0px 12px 12px #000000;
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size:14px;
+	color:#000080;
+}
+
+#nuovo_paziente {
+	-webkit-border-radius: 5px;
+	-moz-border-radius: 5px;
+	-o-border-radius: 5px;
+	border-radius: 5px;	
+	width:850px;
+	height:auto;
+	background-color:#444488;	
+	box-shadow:0px 12px 12px #000000;
+}
+
+#query_paziente {
+	-webkit-border-radius: 5px;
+	-moz-border-radius: 5px;
+	-o-border-radius: 5px;
+	border-radius: 5px;	
+	width:980px;
+	height:auto;
+	background-color:#584C8A;	
+	box-shadow:0px 12px 12px #000000;
+}
+
+#statistica {
+	-webkit-border-radius: 5px;
+	-moz-border-radius: 5px;
+	-o-border-radius: 5px;
+	border-radius: 5px;	
+	width:800px;
+	height:auto;
+	background-color:#584C8A;	
+	box-shadow:0px 12px 12px #000000;
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size:16px;
+	color:#98C9D9;
+}
+
+#form_statistica
+{
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size:14px;
+	color:#163C65;
+}
+
+#see_tumor {
+	-webkit-border-radius: 5px;
+	-moz-border-radius: 5px;
+	-o-border-radius: 5px;
+	border-radius: 5px;	
+	width:800px;
+	height:auto;
+	background-color:#444488;	
+	box-shadow:0px 12px 12px #000000;
+}
+
+
+#tumors_engine {
+	-webkit-border-radius: 5px;
+	-moz-border-radius: 5px;
+	-o-border-radius: 5px;
+	border-radius: 5px;	
+	width:500px;
+	height:auto;
+	background-color:#B6B7E0;	
+}

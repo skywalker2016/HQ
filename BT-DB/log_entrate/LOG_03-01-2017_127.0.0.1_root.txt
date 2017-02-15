@@ -1,0 +1,4 @@
+
+DATE: 03-01-2017 01:40:27; USER: root; ** ENTER: home.php 
+
+DATE: 03-01-2017 01:40:37; USER: root; ** PAGINA NEW PATIENT: new_patient.php 
